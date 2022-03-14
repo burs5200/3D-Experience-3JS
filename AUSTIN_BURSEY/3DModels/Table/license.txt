@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vintage table
+* source:	https://sketchfab.com/3d-models/vintage-table-cc60f4bce4fd4af78904b4253e2a3443
+* author:	Qoodrat (https://sketchfab.com/qoodrat)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vintage table" (https://sketchfab.com/3d-models/vintage-table-cc60f4bce4fd4af78904b4253e2a3443) by Qoodrat (https://sketchfab.com/qoodrat) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

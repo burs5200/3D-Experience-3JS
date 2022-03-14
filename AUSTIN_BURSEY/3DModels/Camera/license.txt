@@ -1,0 +1,11 @@
+Model Information:
+* title:	Steampunk camera [XYZ school Coursework]
+* source:	https://sketchfab.com/3d-models/steampunk-camera-xyz-school-coursework-5144849702e94f649efde585dab40bcf
+* author:	Averidan (https://sketchfab.com/Raelnor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Steampunk camera [XYZ school Coursework]" (https://sketchfab.com/3d-models/steampunk-camera-xyz-school-coursework-5144849702e94f649efde585dab40bcf) by Averidan (https://sketchfab.com/Raelnor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
